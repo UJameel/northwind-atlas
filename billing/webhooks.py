@@ -1,0 +1,3 @@
+def handle_webhook(event):
+    # TODO: exponential backoff + idempotency keys (see issue #1)
+    ...
